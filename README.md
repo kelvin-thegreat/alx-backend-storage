@@ -1,14 +1,22 @@
-# 0x00. MySQL advanced
+# MySQL advanced Development
 
-# Resources
-1. MySQL cheatsheet
-2. MySQL Performance: How To Leverage MySQL Database Indexing
-3. Stored Procedure
-4. Triggers
-5. Views
-6. Functions and Operators
-7. Trigger Syntax and Examples
-8. CREATE TABLE Statement
-9. CREATE PROCEDURE and CREATE FUNCTION Statements
-10. CREATE INDEX Statement
-11. CREATE VIEW Statement
+## Backend development 
+involves creating and managing the server-side of web and mobile applications. 
+## It includes:
+### server setup
+### database management
+### API creation
+### security implementation
+### performance optimization
+### scalability planning
+### integration with third-party services
+### testing and deployment 
+## programming languages
+1. Python
+2. Java
+3. Node.js
+## frameworks and Practices
+1. Django and Express.js.
+2. DevOps practices
+3. CI/CD pipelines
+4. monitoring
